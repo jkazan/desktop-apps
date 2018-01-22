@@ -82,4 +82,4 @@ Icon=/usr/share/icons/Mint-Y/apps/256/ms-excel.png
 Categories=Office" \
      > ~/.local/share/applications/excel.desktop
 
-echo "All donen enjoy!"
+echo "All done enjoy!"
